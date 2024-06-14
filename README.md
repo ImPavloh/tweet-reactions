@@ -1,13 +1,19 @@
-<div style="text-align: center; margin-bottom: 20px;">
-    <img src="icon48.png" alt="Tweet Reactions Icon" width="48px">
-    <h1>Tweet Reactions</h1>
-    <p>Tweet Reactions is a browser extension that adds custom reactions to Twitter posts, inspired by Miiverse. <br>Express your opinions on tweets making it clear what you like or dislike, <i>especially since likes are now private.</i></p>
-</div>
+<p align="center">
+  <img src="./icon48.png" alt="Extension logo"/>
+  <h1 align="center">Tweet Reactions</h1>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+  </p>
+</p>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
     <img src="https://i.imgur.com/OKJ5Pw1.gif" width="300px">
     <img src="https://i.imgur.com/rc4gd2s.gif" width="300px">
 </div>
+
+  <p align="center">Tweet Reactions is a browser extension that adds custom reactions to Twitter posts, inspired by Miiverse. <br>Express your opinions on tweets making it clear what you like or dislike, <i>especially since likes are now private.</i></p>
 
 ## ✨ Features
 
@@ -47,7 +53,8 @@
 
 ## 🤝 Contributing
 
-Please feel free to submit a Pull Request or open an issue to discuss improvements or bug fixes. All help is welcome <3
+Please feel free to submit a Pull Request or open an issue to discuss improvements or bug fixes.
+All help is welcome <3
 
 The original idea was created by [@chaoticvibing](https://x.com/chaoticvibing) as a userscript, which you can find [here](https://github.com/busybox11/userscripts/).
 
