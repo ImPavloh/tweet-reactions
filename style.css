@@ -1,0 +1,32 @@
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  min-height: 20px;
+  height: 36px;
+  margin: auto 0 auto 4px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0);
+  border: none !important;
+  cursor: pointer;
+  transition: background-color 0.4s;
+}
+
+.btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.btn img {
+  width: 20px;
+  height: 20px;
+}
+
+.btn.small {
+  margin: -8px -8px -8px 4px;
+}
+
+.btn.small img {
+  width: 18px;
+  height: 18px;
+}
