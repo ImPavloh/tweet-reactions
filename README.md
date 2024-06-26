@@ -18,45 +18,39 @@
 
 - 👍 Adds 'Yeah' and 'Nah' reaction buttons to Twitter posts.
 - 🌟 Uses custom images for reactions inspired by Miiverse.
-- 💬 Seamlessly integrates into the [Twitter](https://x.com) interface.
+- 💬 Seamlessly integrates into the [Twitter - X](https://x.com) interface.
 
 ## 🚀 Installation
 
-### Manual Installation
-
-1. **Clone or Download the Repository**:
+1. **Clone or download the repository**:
 
    - Clone the repository using `git clone https://github.com/impavloh/tweet-reactions`
    - Or [DOWNLOAD](https://github.com/ImPavloh/tweet-reactions/archive/refs/heads/main.zip) the ZIP file and extract it
 
-2. **Open Chrome Extensions Page**:
+2. **Open Chrome extensions page**:
 
    - Open Google Chrome and go to `chrome://extensions/` (other Chromium-based browsers will open their extensions page even if you type chrome)
 
-3. **Enable Developer Mode**:
+3. **Enable developer mode**:
 
    - Toggle the "Developer mode" switch on the top right corner of the page.
 
-4. **Load Unpacked Extension**:
+4. **Load unpacked extension**:
 
    - Click on the "Load unpacked" button.
    - Select the directory where you cloned or extracted the repository.
 
 5. **Yeah!**:
-   - The extension is now installed. Navigate to [Twitter](https://x.com) to see the new reaction buttons in action :)
-
-### Chrome Web Store
-
-> [!NOTE]  
-> I'm planning to publish this extension to the Chrome Web Store soon. Stay tuned for updates!
+   - The extension is now installed. Navigate to [Twitter - X](https://x.com) to see the new reaction buttons in action :)
 
 ## 🤝 Contributing
 
 Please feel free to submit a Pull Request or open an issue to discuss improvements or bug fixes.
+
 All help is welcome <3
 
 The original idea was created by [@chaoticvibing](https://x.com/chaoticvibing) as a userscript, which you can find [here](https://github.com/busybox11/userscripts/).
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT LICENSE](LICENSE) file for details.

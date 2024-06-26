@@ -4,10 +4,6 @@
   "version": "1.0",
   "description": "Add Miiverse reactions to Twitter posts.",
   "author": "@impavloh",
-  "permissions": [
-    "activeTab",
-    "storage"
-  ],
   "icons": {
     "48": "icon48.png"
   },
